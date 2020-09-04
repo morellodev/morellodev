@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👨🏻‍💻 I have a [dev blog](https://morello.dev) where I talk about JavaScript, React and other webdev related stuff
 
-📚 I made some front-end libraries:
+📚 I made some quite cool front-end libraries:
   - [react-awesome-reveal](https://github.com/dennismorello/react-awesome-reveal)
   - [react-test-attributes](https://github.com/dennismorello/react-test-attributes)
  
