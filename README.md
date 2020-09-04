@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠 I am a Front-End Engineer currently working at [![ContentWise Logo](https://www.contentwise.com/wp-content/themes/cw-theme/assets/images/contentwise-logo-orange.svg)](https://github.com/contentwise)
+🛠 I am a Front-End Engineer from Milan, Italy 🇮🇹
 
 👨🏻‍💻 I have a [dev blog](https://morello.dev) where I talk about JavaScript, React and other webdev related stuff
 
