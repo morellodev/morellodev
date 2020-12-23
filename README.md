@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🛠 I am a Front-End Engineer from Milan, Italy 🇮🇹
 
-👨🏻‍💻 I have a [dev blog](https://morello.dev) where I talk about JavaScript, React and other webdev related stuff
+👨🏻‍💻 I have a [personal website](https://morello.dev) and a [dev blog](https://blog.morello.dev) where I talk about JavaScript, React and other webdev related stuff.
 
 📚 I made some quite cool front-end libraries:
   - [react-awesome-reveal](https://github.com/dennismorello/react-awesome-reveal)
