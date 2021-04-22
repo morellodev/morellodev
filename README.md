@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🛠 I am a Front-End Engineer from Milan, Italy 🇮🇹
+🛠 I am a Senior Front-End Software Engineer from Milan, Italy 🇮🇹
 
 👨🏻‍💻 I have a [personal website](https://morello.dev) and a [dev blog](https://blog.morello.dev) where I talk about JavaScript, React and other webdev related stuff.
 
