@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 👨🏻‍💻 I have a [personal website](https://morello.dev) and a [dev blog](https://blog.morello.dev) where I talk about JavaScript, React and other webdev related stuff.
 
 📚 I made some quite cool front-end libraries:
-  - [react-awesome-reveal](https://github.com/dennismorello/react-awesome-reveal)
-  - [react-test-attributes](https://github.com/dennismorello/react-test-attributes)
+  - [react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
+  - [react-test-attributes](https://github.com/morellodev/react-test-attributes)
  
 📫 You can reach me on:
 - [Mail](mailto:dennismorello@gmail.com)
-- [Twitter](https://twitter.com/dennismorello)
+- [Twitter](https://twitter.com/morellodev)
 - [LinkedIn](https://linkedin.com/in/dennismorello)
