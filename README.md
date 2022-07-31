@@ -24,6 +24,6 @@ Here are some ideas to get you started:
   - [react-test-attributes](https://github.com/morellodev/react-test-attributes)
  
 📫 You can reach me on:
-- [Mail](mailto:dennismorello@gmail.com)
+- [Mail](mailto:dennis@morello.dev)
 - [Twitter](https://twitter.com/morellodev)
 - [LinkedIn](https://linkedin.com/in/dennismorello)
