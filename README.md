@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🛠 I am a Senior Front-End Software Engineer from Milan, Italy 🇮🇹
 
-👨🏻‍💻 I work in a fintech company where I help building great user experiences 🌈. I also contribute on various the open-source projects.
+👨🏻‍💻 I work in a fintech company where I help building great user experiences 🌈 I also contribute on various the open-source projects.
 
 📚 I made some quite 🆒 JavaScript libraries:
   - [react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
