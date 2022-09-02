@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 🛠 I am a Senior Front-End Software Engineer from Milan, Italy 🇮🇹
 
-👨🏻‍💻 I have a [personal website](https://morello.dev) and a [dev blog](https://blog.morello.dev) where I talk about JavaScript, React and other webdev related stuff.
+👨🏻‍💻 I work in a fintech company where I help building great user experiences 🌈. I also contribute on various the open-source projects.
 
-📚 I made some quite cool front-end libraries:
+📚 I made some quite 🆒 JavaScript libraries:
   - [react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
   - [react-test-attributes](https://github.com/morellodev/react-test-attributes)
  
