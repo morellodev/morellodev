@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 👨🏻‍💻 I work in a fintech company where I help building great user experiences 🌈 I also contribute on various the open-source projects.
 
 📚 I made some quite 🆒 JavaScript libraries:
-  - [react-awesome-reveal](https://github.com/morellodev/react-awesome-reveal)
+  - [awesome-reveal](https://github.com/awesome-reveal/awesome-reveal)
   - [react-test-attributes](https://github.com/morellodev/react-test-attributes)
  
 📫 You can reach me on:
