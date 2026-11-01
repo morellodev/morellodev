@@ -1,6 +1,6 @@
 ## Hi, I'm Dennis 👋
 
-Lead Frontend Engineer in Milan, Italy. I work on the web platform at [Moneyfarm](https://www.moneyfarm.com), and I build open-source tools for React developers and the terminal.
+Lead Frontend Engineer at [Moneyfarm](https://www.moneyfarm.com) in Milan, Italy. I have built web products with React and TypeScript for more than 10 years. I care most about web accessibility, web performance, and design systems.
 
 I write about modern web APIs, CSS, and developer tooling at **[morello.dev](https://morello.dev)**.
 
@@ -16,8 +16,14 @@ I write about modern web APIs, CSS, and developer tooling at **[morello.dev](htt
 | --- | --- | --- |
 | [arbor](https://github.com/morellodev/arbor) | A friendly CLI to manage git worktrees | `brew install morellodev/tap/arbor` |
 | [tmaps](https://github.com/morellodev/tmaps) | OpenStreetMap in your terminal, drawn in braille, with routes and JSON output for AI agents | `brew install morellodev/tap/tmaps` |
-| [Defrag98](https://defrag98.com) | A Windows 98 disk defrag simulator in the browser, with real HDD sounds | [Play it](https://defrag98.com) |
+| [Defrag98](https://defrag98.com) | A Windows 98 disk defrag simulator in the browser. Covered by The Verge, Hackaday, and PC Games Hardware. | [Play it](https://defrag98.com) |
 | [Investment Simulator](https://github.com/morellodev/investment-simulator) | Backtest investments and track a portfolio | [Try it](https://money.morello.dev) |
+
+I also sent merged pull requests to [Next.js](https://github.com/vercel/next.js/pull/19650), [Astro](https://github.com/withastro/astro/pulls?q=is%3Apr+author%3Amorellodev+is%3Amerged), [Expo](https://github.com/expo/expo/pulls?q=is%3Apr+author%3Amorellodev+is%3Amerged), [Chakra UI](https://github.com/chakra-ui/chakra-ui/pulls?q=is%3Apr+author%3Amorellodev+is%3Amerged), [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped/pulls?q=is%3Apr+author%3Amorellodev+is%3Amerged), and [vscode-icons](https://github.com/vscode-icons/vscode-icons/pulls?q=is%3Apr+author%3Amorellodev+is%3Amerged).
+
+### Talks
+
+- **Writing Accessible Components**, ReactJS Milano meetup, November 2022. I live-coded an [accessible accordion in React](https://github.com/morellodev/react-a11y-accordion).
 
 ### Latest posts
 
