@@ -22,6 +22,11 @@ I write about modern web APIs, CSS, and developer tooling at **[morello.dev](htt
 ### Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WebSkill: Agent Skills in the Browser](https://morello.dev/blog/webskill-agent-skills-in-the-browser)
+- [htmx 4: What&#39;s New, What Breaks, Why It&#39;s Not latest](https://morello.dev/blog/htmx-4)
+- [Why I Replaced Tailwind CSS With Vanilla CSS](https://morello.dev/blog/replacing-tailwind-with-vanilla-css)
+- [Bun Rust Rewrite: 64 Claude Agents, 535k Lines of Zig](https://morello.dev/blog/bun-14-rust-rewrite)
+- [Baseline 2026: 4 APIs That Replaced My Dependencies](https://morello.dev/blog/baseline-2026-web-platform-apis)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [All posts](https://morello.dev/blog) · [RSS](https://morello.dev/rss.xml)
