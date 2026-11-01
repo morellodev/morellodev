@@ -1,0 +1,20 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://morello.dev/rss.xml"
+          max_post_count: 5
+          commit_message: "docs: update latest blog posts"
