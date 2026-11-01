@@ -37,6 +37,6 @@ I write about modern web APIs, CSS, and developer tooling at **[morello.dev](htt
 [![Bluesky](https://img.shields.io/badge/Bluesky-0085ff?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/morello.dev)
 [![X](https://img.shields.io/badge/@morellodev-000?style=flat&logo=x&logoColor=white)](https://x.com/morellodev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dennismorello)
-[![Email](https://img.shields.io/badge/dennis@morello.dev-555?style=flat&logo=maildotru&logoColor=white)](mailto:dennis@morello.dev)
+[![Email](https://img.shields.io/badge/dennismorello@gmail.com-555?style=flat&logo=gmail&logoColor=white)](mailto:dennismorello@gmail.com)
 
 If one of my projects saves you time, a ⭐ helps other developers find it.
